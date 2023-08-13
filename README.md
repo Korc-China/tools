@@ -24,7 +24,8 @@ Typora 还具备**许多实用的功能**，如表格、代码块高亮、数学
 
 插件官网：[iTab新标签页 | iTab新标签页](https://itab.link/?from=itab)
 
-装完后在设置里导入我分享的备份文件，见./iTab
+装完后在设置里导入我分享的备份文件，见./iTab[Link to Folder](iTab/)
+
 
 简介：iTab为浏览器标签页，好用就完辣。
 
