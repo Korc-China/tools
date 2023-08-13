@@ -19,3 +19,12 @@ Typora 还具备**许多实用的功能**，如表格、代码块高亮、数学
 总之，Typora 是一款极具创新性的Markdown编辑器，通过其独特的所见即所得编辑方式和丰富的功能，让用户能够更加轻松、高效地创作和管理Markdown文档。无论是写作、笔记还是技术文档，Typora 都是一个**强大而实用的工具**。
 
 <img src="./tools.assets/image-20230813175854468.png" alt="image-20230813175854468" style="zoom:50%;" />
+
+## iTab
+
+插件官网：[iTab新标签页 | iTab新标签页](https://itab.link/?from=itab)
+
+简介：iTab为浏览器标签页，好用就完辣。
+
+可将标签页保存在本地并将Edge设为后台运行以提高开启新标签页速度。
+![image-20230813183155848](./README.assets/image-20230813183155848.png)
